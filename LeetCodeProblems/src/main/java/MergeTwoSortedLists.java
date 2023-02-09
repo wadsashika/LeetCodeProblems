@@ -1,3 +1,5 @@
+package main.java;
+
 public class MergeTwoSortedLists {
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1, new ListNode(2, new ListNode(4)));

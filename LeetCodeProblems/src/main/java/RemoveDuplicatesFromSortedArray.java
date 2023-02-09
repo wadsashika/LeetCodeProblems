@@ -1,3 +1,5 @@
+package main.java;
+
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         int[] nums1 = {1, 1, 2};

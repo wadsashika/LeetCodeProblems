@@ -1,3 +1,5 @@
+package main.java;
+
 public class LongestCommonPrefix {
 
     public static void main(String[] args) {
